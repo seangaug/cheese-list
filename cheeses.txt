@@ -3,3 +3,6 @@
 - Roquefort
 - Compté
 - Fontina
+
+- Gorgonzolla
+- Edam
